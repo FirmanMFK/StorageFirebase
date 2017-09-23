@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "581318279230",
+    "firebase_url": "https://nguber-8673e.firebaseio.com",
+    "project_id": "nguber-8673e",
+    "storage_bucket": "nguber-8673e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581318279230:android:1dc3ba9cb3e0e79b",
+        "android_client_info": {
+          "package_name": "com.firman.nguber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581318279230-jva5berrqu8ol4ln8lh664iqb6eghvpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RGw90QEm2P5Rr_qX_fkJQXs7nRI-GtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581318279230:android:3c81cfd692d6b1dd",
+        "android_client_info": {
+          "package_name": "com.frman.storagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581318279230-jva5berrqu8ol4ln8lh664iqb6eghvpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RGw90QEm2P5Rr_qX_fkJQXs7nRI-GtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
